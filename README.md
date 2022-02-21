@@ -2,9 +2,9 @@
 - 👀 I’m interested in Python (Tkinter, Flask, SQLAlchemy to code)
 <!--- - 🌱 I’m currently learning ... --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me caganmertislek@hotmail.com
+- 📫 How to reach me caganmertislekv3@gmail.com
 
-🐱‍🚀 Windows 11 Dev Insider
+FydeOS 14.0 ChromiumOS 97 
 
 <!---
 caganmertislek/caganmertislek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
