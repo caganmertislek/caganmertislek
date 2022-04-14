@@ -4,7 +4,7 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me caganmertislekv3@gmail.com
 
-FydeOS 14.0 ChromiumOS 97 
+Windows 11 21H2
 
 <!---
 caganmertislek/caganmertislek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
